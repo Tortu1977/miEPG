@@ -2,4 +2,4 @@ https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml
 https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz
 https://epg.ovh/pl.xml
-https://epg.pw/api/epg.xml?lang=en&timezone=RXVyb3BlL01hZHJpZA%3D%3D&date=20260619&channel_id=537808
+https://epg.pw/api/epg.xml?lang=en&channel_id=537808
