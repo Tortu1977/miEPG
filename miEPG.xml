@@ -1,11 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="miEPG v3.6" generator-info-url="https://github.com/davidmuma/miEPG">
-	<programme start="20260623014000 +0200" stop="20260623030500 +0200" channel="La 2 Super Full HD 8k">
-    <title>Traslados</title>
-    <desc>Documentales,Historia | 2024 | +12 | *6.0/10
-· El asesinato y desaparición de personas ejecutada por la dictadura argentina.
-· País: Argentina
-· Dirección: Nicolás Gil Lavedra.
-· Productora: Orca Films.</desc>
-	</programme>
 </tv>
